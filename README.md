@@ -1,5 +1,14 @@
-Olá! 
-Bem vindo ao meu GitHub! Sou apaixonada por tecnologia e atualmente trabalho com análise de dados e automação de processos.
+# Olá, seja bem-vindo ao meu Github!
 
-Linguagens de programação: SQL & Python
+## Sobre Mim
 
+Sou apaixonada por tecnologia e sempre busco inovação em cada projeto que realizo. Atualmente trabalho com análise de dados e automação de processos.
+
+## Linguagens de programação
+
+- **SQL** 
+- **Python** 
+
+## Contato
+
+Você pode entrar em contato comigo através do e-mail evanyrebecaguimaraes@gmail.com.
